@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagidPOS", "TagidPOS\TagidPOS.csproj", "{B87F715A-7A65-429F-B070-64AA451CCFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87F715A-7A65-429F-B070-64AA451CCFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87F715A-7A65-429F-B070-64AA451CCFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87F715A-7A65-429F-B070-64AA451CCFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87F715A-7A65-429F-B070-64AA451CCFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF74DD01-D0CE-49AF-BCCD-DF43CCE8542D}
+	EndGlobalSection
+EndGlobal
